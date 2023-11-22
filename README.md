@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm MD MAJHARUL ISLAM SHAFI</h1>
 <h3 align="center">Competitive Programmer | Problem Solver | Tech Enthusiastic | Fast learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952t4p3fd1z861a0myfsuviffz4t5vglpgi4tmf9jrh&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952t4p3fd1z861a0myfsuviffz4t5vglpgi4tmf9jrh&ep=v1_gifs_search&rid=200w.gif&ct=g](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-asteric&label=Profile%20views&color=0e75b6&style=flat" alt="dark-asteric" /> </p>
 
