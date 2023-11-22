@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Dark-asteric/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Dark-asteric/Codeforces-Stats/main/output/light_card.svg)
-
+![](https://leetcard.jacoblin.cool/mishafi6969?site=cn)
 <h1 align="center">Hi 👋, I'm MD MAJHARUL ISLAM SHAFI</h1>
 <h3 align="center">Competitive Programmer | Problem Solver | Tech Enthusiastic | Fast learner</h3>
 
